@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav-logo-set img{
+    height: 35px;
+}
+#top-part, #nav-part, #sign-up{
+    background-color: #fdf7ee;
+}
+.nav-sizing{
+    padding-left: 40%;
+    font-weight: 700;
+    color: black;
+}
+.btn{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #2a1e59;
+    border-radius: 40px;
+    padding: 15px 40px;
+    color: white;
+    font-weight: 700;
+    display: inline-block;
+}
+.btn2{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #2a1e59;
+    border-radius: 40px;
+    padding: 15px 30px;
+    color: white;
+    font-weight: 700;
+    display: inline-block;
+}
+.btn2 img{
+    height: 28px;
+    padding-right: 2px;
+}
+.highlight-1{
+    color: #363958;
+}
+.highlight-2{
+    color: #76c27e;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 70px;
+}
+h3{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 45px; 
+}
+h2{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+}
+h5{
+    font-family: 'Montserrat', sans-serif;
+    color: #363958;
+    font-weight: 800;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+.card-bg{
+    background-color: #f1f1f1;
+    border-radius: 10px;
+}
+.icon-set img{
+    height: 80px;
+}
+.title-set{
+    font-size: 30px;
+    text-align: center;
+}
+.bottom-part{
+    background-color: #363958;
+    color: white;
+    height: 400px;
+}
+.social-icon-set img{
+    height: 15px;
+}
+.app-icon-set img{
+    height: 30px;
+}
